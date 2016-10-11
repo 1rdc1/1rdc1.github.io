@@ -1,0 +1,23 @@
+
+body {
+			background-image: url("../IMAGES/2ndpass.jpeg");
+			background-repeat: repeat;
+			background-position: center top;
+			}
+
+
+.menu {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 0px;
+	height: 0px;
+	padding-bottom: 0px;}
+
+	.success {
+		position:absolute;
+		bottom: 0px;
+		right: 0px;
+		width: 175px;
+		padding-bottom: 0px;
+	}
